@@ -1,3 +1,6 @@
+//image imports
+
+
 export { default as LoginBg } from './img/loginBg2.jpg';
 // export { default as Logo } from './img/logo.png';
 // export { default as Avatar } from './img/avatar.png';
